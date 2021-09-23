@@ -36,12 +36,12 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="lbx-e1-y93" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="7HR-A7-92C"/>
                             <constraint firstItem="08z-D5-nP8" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="FQp-ja-tXs"/>
-                            <constraint firstAttribute="trailing" secondItem="lbx-e1-y93" secondAttribute="trailing" id="GPk-3v-gbW"/>
+                            <constraint firstItem="lbx-e1-y93" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Omg-gf-duq"/>
+                            <constraint firstItem="lbx-e1-y93" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="RBr-n9-p6p"/>
                             <constraint firstItem="08z-D5-nP8" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Stj-5R-Mv1"/>
+                            <constraint firstItem="lbx-e1-y93" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="YZ7-t3-pMF"/>
                             <constraint firstItem="08z-D5-nP8" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="bqg-dg-oph"/>
-                            <constraint firstItem="lbx-e1-y93" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="i0k-Pj-bXx"/>
                             <constraint firstItem="08z-D5-nP8" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="tKu-xN-P7O"/>
                         </constraints>
                     </view>
