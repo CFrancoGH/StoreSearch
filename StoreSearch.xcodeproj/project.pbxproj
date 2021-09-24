@@ -64,17 +64,17 @@
 		539DDE9626FBA833006F6D2E /* StoreSearch */ = {
 			isa = PBXGroup;
 			children = (
-				539DDEA526FBA834006F6D2E /* Info.plist */,
 				539DDE9726FBA833006F6D2E /* AppDelegate.swift */,
-				539DDE9926FBA833006F6D2E /* SceneDelegate.swift */,
-				531BEC9126FCC56100752275 /* SearchResult.swift */,
-				539DDE9B26FBA833006F6D2E /* SearchViewController.swift */,
 				539DDEA026FBA834006F6D2E /* Assets.xcassets */,
+				539DDEA526FBA834006F6D2E /* Info.plist */,
 				539DDEA226FBA834006F6D2E /* LaunchScreen.storyboard */,
 				539DDE9D26FBA833006F6D2E /* Main.storyboard */,
-				531BEC9326FCC7CE00752275 /* SearchResultCell.xib */,
-				531BEC9526FCD1B700752275 /* SearchResultCell.swift */,
 				531BEC9726FCD9F500752275 /* NothingFoundCell.xib */,
+				539DDE9926FBA833006F6D2E /* SceneDelegate.swift */,
+				531BEC9126FCC56100752275 /* SearchResult.swift */,
+				531BEC9526FCD1B700752275 /* SearchResultCell.swift */,
+				531BEC9326FCC7CE00752275 /* SearchResultCell.xib */,
+				539DDE9B26FBA833006F6D2E /* SearchViewController.swift */,
 			);
 			path = StoreSearch;
 			sourceTree = "<group>";
