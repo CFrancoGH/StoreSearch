@@ -17,7 +17,6 @@
 		539DDE9C26FBA833006F6D2E /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539DDE9B26FBA833006F6D2E /* SearchViewController.swift */; };
 		539DDE9F26FBA833006F6D2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 539DDE9D26FBA833006F6D2E /* Main.storyboard */; };
 		539DDEA126FBA834006F6D2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 539DDEA026FBA834006F6D2E /* Assets.xcassets */; };
-		539DDEA426FBA834006F6D2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 539DDEA226FBA834006F6D2E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +31,6 @@
 		539DDE9B26FBA833006F6D2E /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		539DDE9E26FBA833006F6D2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		539DDEA026FBA834006F6D2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		539DDEA326FBA834006F6D2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		539DDEA526FBA834006F6D2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,7 +67,6 @@
 				539DDE9726FBA833006F6D2E /* AppDelegate.swift */,
 				539DDEA026FBA834006F6D2E /* Assets.xcassets */,
 				539DDEA526FBA834006F6D2E /* Info.plist */,
-				539DDEA226FBA834006F6D2E /* LaunchScreen.storyboard */,
 				539DDE9D26FBA833006F6D2E /* Main.storyboard */,
 				531BEC9726FCD9F500752275 /* NothingFoundCell.xib */,
 				539DDE9926FBA833006F6D2E /* SceneDelegate.swift */,
@@ -139,7 +136,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				539DDEA426FBA834006F6D2E /* LaunchScreen.storyboard in Resources */,
 				539DDEA126FBA834006F6D2E /* Assets.xcassets in Resources */,
 				531391CE26FF86BF00EB5913 /* LoadingCell.xib in Resources */,
 				531BEC9426FCC7CE00752275 /* SearchResultCell.xib in Resources */,
@@ -172,14 +168,6 @@
 				539DDE9E26FBA833006F6D2E /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		539DDEA226FBA834006F6D2E /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				539DDEA326FBA834006F6D2E /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
